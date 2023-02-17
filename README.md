@@ -1,6 +1,6 @@
 Project Name
 
-Student Name: *xxx*   Student ID: *xxx*
+Student Name: Jeff Halley   Student ID: 20102427
 
   TODO: Write a short project description.
 
