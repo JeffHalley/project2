@@ -1,9 +1,19 @@
-Project Name
+Project Name: motorcycle proximity LED system
 
 Student Name: Jeff Halley   Student ID: 20102427
 
-  TODO: Write a short project description.
+  TODO: the main concept of this project is to mount a small electrical curcuit onto a motorcycle that will take a reading from a rear mounted ultrasonic distance sesnor and make an LED flash at a set speed depending on the range from the distance sensor. for example, if the distance being meassured is short the LED will blank rapidly.
 
 Tools, Technologies and Equipment
 
-  TODO: Write a list of things you propose to use in your work. This can be hardware, programming languages etc.
+1. Arduino 
+
+2. Ultrasonic Sensor.
+
+3. BreadBoard
+
+4. 1 kohm Resistor.
+
+5. cables/wires.
+
+6. red LED.
