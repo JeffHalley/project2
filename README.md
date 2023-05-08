@@ -17,3 +17,5 @@ Tools, Technologies and Equipment
 5. cables/wires.
 
 6. red LED.
+
+presentation link: https://docs.google.com/presentation/d/1VQuOxpyyZ6jrPVKNwRqfJM8Ja8aY3LNvZ4wh5N_RnhY/edit?usp=sharing
