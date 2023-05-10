@@ -2,7 +2,7 @@ Project Name: motorcycle proximity LED system
 
 Student Name: Jeff Halley   Student ID: 20102427
 
-  TODO: the main concept of this project is to mount a small electrical curcuit onto a motorcycle that will take a reading from a rear mounted ultrasonic distance sesnor and make an LED flash at a set speed depending on the range from the distance sensor. for example, if the distance being meassured is short the LED will blank rapidly.
+  TODO: the main concept of this project is to mount a small electrical curcuit onto a motorcycle that will take a reading from a rear mounted ultrasonic distance sensor and make an LED flash at a set speed depending on the range from the distance sensor. for example, if the distance being meassured is short the LED will blank rapidly.
 
 Tools, Technologies and Equipment
 
